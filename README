@@ -1,0 +1,16 @@
+
+This repository contains Javascript courses:
+
+# 01-language: about JS as a functional, dynamic language:
+   - primitives/objects
+   - prototypal inheritance
+   - functions & closures
+   - scopes & contexts
+# 02-dom: about DOM manipulation, event handling and such:
+   - the DOM Tree
+   - Events
+   - Concurrency model & animations
+   - Unit testing
+   - AJAX
+   
+It's heavily recommended to first make all the labs of course 01!
