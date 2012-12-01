@@ -1,4 +1,3 @@
-
 This repository contains Javascript courses:
 
 # 01-language: about JS as a functional, dynamic language:
@@ -14,3 +13,5 @@ This repository contains Javascript courses:
    - AJAX
    
 It's heavily recommended to first make all the labs of course 01!
+
+Added Jasmine tests that you can run using 'node runner' in the respective course directories
