@@ -1,5 +1,5 @@
 define([''], function(){
-    calculate = function (arg1) {
+    calculate = function (expression) {
         return 0;
     };
 
