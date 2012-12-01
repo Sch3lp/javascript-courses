@@ -15,3 +15,10 @@ This repository contains Javascript courses:
 It's heavily recommended to first make all the labs of course 01!
 
 Added Jasmine tests that you can run using 'node runner' in the respective course directories
+
+How-to run the Jasmine tests:
+# Download NodeJS
+# Download NPM (Node Package Manager)
+# "npm install jasmine"
+# navigate to any of the course directories (e.g. jasmine/calculate)
+# "node runner" will run the specs
