@@ -17,7 +17,7 @@ global.afterEach = require('../lib/jasmine-1.1.0.rc1/jasmine').afterEach;
 
 //bring in and list all the tests to be run
 var specs = [
-  './spec/SomeTest'
+  './spec/GardenerTest'
 ]
 
 requirejs(specs, function(ModuleSpec) {

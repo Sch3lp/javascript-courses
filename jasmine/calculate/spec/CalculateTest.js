@@ -22,11 +22,11 @@ define(["../Calculator"], function(Calculator) {
         });
         
         it("did not cheat using eval(), I swear!", function() {
-            expect(Calculator.calculate.toString().indexOf("eval(") < 0).toBe(true);
+            expect(Calculator.calculate.toString().indexOf("eval(") < 0).toBeTruthy();
         });
         
         it("did not pretend to be smart using Function(), I swear!", function() {
-            expect(Calculator.calculate.toString().indexOf("Function(") < 0).toBe(true);
+            expect(Calculator.calculate.toString().indexOf("Function(") < 0).toBeTruthy();
         });
     });
   
