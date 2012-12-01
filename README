@@ -19,6 +19,5 @@ Added Jasmine tests that you can run using 'node runner' in the respective cours
 How-to run the Jasmine tests:
 # Download NodeJS
 # Download NPM (Node Package Manager)
-# "npm install jasmine"
 # navigate to any of the course directories (e.g. jasmine/calculate)
 # "node runner" will run the specs
